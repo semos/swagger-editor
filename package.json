@@ -5,15 +5,7 @@
   "description": "Swagger Editor",
   "license": "Apache-2.0",
   "files": [
-    "index.html",
-    "styles/branding.css",
-    "scripts/branding.js",
-    "dist/",
-    "config/",
-    "views/",
-    "templates/",
-    "images/",
-    "spec-files/"
+    "**/*"
   ],
   "authors": [
     "Mohsen Azimi <me@azimi.me>",
